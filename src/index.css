@@ -11,3 +11,17 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+button,
+a,
+checkbox {
+  float:right;
+}
+
+.checkbox-item {
+  float: left;
+}
+
+label {
+  font-size: 30px;
+}
